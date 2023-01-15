@@ -13,7 +13,7 @@ The book is currently in production, due out on Routledge in May 2023.
 
 References for the book are here, arranged by chapter. There are links given to files wherever I can find them online. 
 
-[https://github.com/creatingCommunityHealth/notes](https://github.com/creatingCommunityHealth/notes)
+[Notes and references](https://github.com/creatingCommunityHealth/book/blob/main/notes.md)
 
 
 The images for the book were all done in R Studio. The code for the images that I created is here: 

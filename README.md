@@ -1,7 +1,7 @@
 # book
 Resources for Creating Community Health by Simon Lennane
 
-https://www.routledge.com/Creating-Community-Health-Interventions-for-Sustainable-Healthcare/Lennane/p/book/9781032490045
+[https://www.routledge.com/Creating-Community-Health-Interventions-for-Sustainable-Healthcare/Lennane/p/book/9781032490045](https://www.routledge.com/Creating-Community-Health-Interventions-for-Sustainable-Healthcare/Lennane/p/book/9781032490045)
 
 ISBN: 978-1-032-49004-5 (hbk), 978-1-032-14097-1 (pbk), 978-1-003-39178-4 (ebk)
 
@@ -13,17 +13,15 @@ The book is currently in production, due out on Routledge in May 2023.
 
 References for the book are here, arranged by chapter. There are links given to files wherever I can find them online. 
 
-https://github.com/creatingCommunityHealth/notes
+[https://github.com/creatingCommunityHealth/notes](https://github.com/creatingCommunityHealth/notes)
 
 
 The images for the book were all done in R Studio. The code for the images that I created is here: 
 
-https://github.com/creatingCommunityHealth/figures-code
+[Images code](https://github.com/creatingCommunityHealth/figures-code)
 
 
 Information about Simon, including other publications, is here: 
 
-https://github.com/creatingCommunityHealth/Simon
+[Simon Lennane](https://github.com/creatingCommunityHealth/Simon)
 
-
-I will keep adding resources to this site along the way. 

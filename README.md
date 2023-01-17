@@ -11,9 +11,9 @@ DOI: 10.4324/9781003391784
 The book is currently in production, due out on Routledge in May 2023. 
 
 
-References for the book are here, arranged by chapter. There are links given to files wherever I can find them online. 
+Notes and references for the book are here, arranged by chapter. There are links given to files wherever I can find them online. 
 
-[Notes and references](https://github.com/creatingCommunityHealth/book/blob/main/notes.md)
+[Notes and references](https//www.communityhealth.uk)
 
 
 The images for the book were all done in R Studio. The code for the images that I created is here: 

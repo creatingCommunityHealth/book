@@ -8,10 +8,7 @@ ISBN: 978-1-032-49004-5 (hbk), 978-1-032-14097-1 (pbk), 978-1-003-39178-4 (ebk)
 DOI: 10.4324/9781003391784
 
 
-The book is currently in production, due out on Routledge in May 2023. 
-
-
-Notes and references for the book are here, arranged by chapter. There are links given to files wherever I can find them online. 
+Notes and references for the book are here, arranged by chapter, with links to content if available online. 
 
 [Notes and references](https//www.communityhealth.uk)
 
